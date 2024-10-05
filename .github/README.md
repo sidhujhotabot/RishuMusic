@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐑ɪ𝐬ʜᴜ 𝐌ᴜsɪᴄ 」─
+    ─「 𝐒ɪᴅʜᴜ 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
@@ -25,15 +25,15 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RishuBot/RishuMusic"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RishuBot/RishuMusic"> <img src="https://graph.org/file/c5726d83da44f7cfb373c.jpg" width="520" height="198.45"/></a></p>
 
 
 
 <p align="center">
-<a href="https://telegram.me/rishu1286"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/PUNJABIGANGSTER"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/rishu1286"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/PUNJABIGANGSTER"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -67,4 +67,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/rishu1286"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/II_SIDXU_II"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
